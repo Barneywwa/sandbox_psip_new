@@ -1,0 +1,11 @@
+# GEOINFORMATYKA RZĄDZI 
+## OH YEEAAAAAH!
+
+
+# CRUD
+## GUI
+## MAPS
+# CRUD
+
+TODO: Create
+## READ <-
